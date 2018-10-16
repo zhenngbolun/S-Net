@@ -1,6 +1,9 @@
 # S-Net
 S-Net: A Scalable Convolutional Neural Network for JPEG Compression Artifact Reduction
 
+## Citing Information
+Bolun Zheng, Rui Sun, Xiang Tian, Yaowu Chen, "S-Net: a scalable convolutional neural network for JPEG compression artifact reduction," J. Electron. Imaging 27(4), 043037 (2018), doi: 10.1117/1.JEI.27.4.043037. 
+
 ## Network Architecture
 ![Error](https://github.com/zhenngbolun/S-Net/blob/master/network.jpg)
 
@@ -29,4 +32,5 @@ QF     | L1            | L2            | L8
 
 ![Error](https://github.com/zhenngbolun/S-Net/blob/master/result1.jpg)
 ![Error](https://github.com/zhenngbolun/S-Net/blob/master/result2.jpg)
+
 
