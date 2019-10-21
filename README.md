@@ -24,7 +24,7 @@ QF     | L1            | L2            | L8
 | 20    | 31.97/0.9017  | 32.04/0.9028  | 32.15/0.9047 | 
 | 10    | 29.64/0.8391  | 29.71/0.8410  | 29.82/0.8440 | 
 
-[WIN143](https://pan.baidu.com/s/1L3pU708Lr0l84Aj9zBmQLQ) Result ([WIN143 OneDrive])(https://1drv.ms/u/s!ArU0YIIFiFuHiR-XYIzEC6XijI_r)
+[WIN143](https://pan.baidu.com/s/1L3pU708Lr0l84Aj9zBmQLQ) Result ([WIN143 OneDrive](https://1drv.ms/u/s!ArU0YIIFiFuHiR-XYIzEC6XijI_r))
 
 |QF     | L1            | L2            | L8 |           
 |:----- |:-------------:|:-------------:|:-------------:|
